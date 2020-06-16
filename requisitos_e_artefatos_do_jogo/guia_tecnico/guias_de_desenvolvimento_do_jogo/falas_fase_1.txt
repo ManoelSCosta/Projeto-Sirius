@@ -1,0 +1,63 @@
+Vai ser logo depois dele falar que adora testar as pesssoas
+
+
+Wendell
+Veja aquele painel ali. Lá existe algumas perguntas que você poderá responder e ganhar pontos.
+
+
+*Vai ter um canvas em cima da dispositivo lá, esse canvas some quando a lena chegar perto*
+
+pergunta 1
+    frase 1
+        As caixas possuem as dimensões de altura, largura e profundidade igual a 3m.
+    Frase 2
+        Qual o volume de uma das caixas com essas dimensẽos?
+    Frase 3
+        Alternativa A: 27 litros
+        Alternativa B: 2700 metros
+        Alternativa C: 27 metros cubicos
+        Alternativa D: 27 centimetros cubicos
+
+     Se alternativa certa (C)
+        Frase
+            Parabéns! Você ganhou 10 pontos de conhecimento
+     senão
+        Frase
+            Que pena, você errou, perdou 10 pontos de confiança
+
+
+Pergunta 2
+    Frase 1
+        O espaço onde as caixa que serão despachadas tem 15 metros de comprimento e 12 metros de largura
+    Frase 2
+        Você poderia dizer qual a area do espaço?
+    Frase 3
+        Alternativa A: 180 metros quadrados
+        Alternativa B: 60 metros cubicos
+        Alternativa C: 56 litros
+        Alternativa D: 180 litros
+    
+     Se alternativa certa (A)
+        Frase
+            Parabéns! Você ganhou 10 pontos de conhecimento
+     senão
+        Frase
+            Que pena, você errou, perdou 10 pontos de confiança
+Pergunta 3
+    Frase 1
+        A o volume da caixa é de 27 metros cubicos e a area de despacho é de 180 metros quadrados ou 
+    Frase 2
+        Quantas caixas cabem na area de despacho?
+    Frase 3
+        Alternativa A: 23 caixas
+        Alternativa B: 20 caixas
+        Alternativa C: 15 caixas
+        Alternativa D: 12 caixas
+
+    Se alternativa certa (B)
+        Frase
+            Parabéns! Você ganhou 10 pontos de conhecimento
+    senão
+        Frase
+            Que pena, você errou, perdou 10 pontos de confiança
+

@@ -1,0 +1,23 @@
+Pergunta 4
+    Aqui no Complexo Uranus-235, existem cilindros com 10 metros de comprimento e raio de 2 metros. Considere que PI é igual a 3,14. Qual o volume em metros cubicos desses cilindros?
+    Alternativas
+        A 125,6 metros cubicos
+        B  62,8 metros cubicos
+        C  82,5 metros cubicos
+        D 128   metros cubicos
+
+
+
+
+
+
+Pergunta 5
+    Nos utilizamos barris que comportam 100 litros de combustivel cada. Quantos barris desses, aproximadamente, são necessários para encher um terço do cilindro grande, sabendo que o cilindro grande comportam 125600 litros?
+    Alternativas
+        A 418 barris aproximadamente
+        B 500 barris aproximadamente
+        C 654 barris aproximadamente
+        D 456 barris aproximadamente
+    
+
+
